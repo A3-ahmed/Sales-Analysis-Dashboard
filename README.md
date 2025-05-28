@@ -26,10 +26,5 @@ This project presents a dynamic sales dashboard created in Microsoft Excel to an
 - Interactive filters by year
 - Pie charts for gender and category segmentation
 - Quarterly trend analysis
-- Clean, user-friendly dashboard layout
+- Clean, user-friendly dashboard layou
 
-![Dashboard Preview](Screenshot 2025-05-28 192651.png)
-
-
-## Author
-[Aya Ahmed]
