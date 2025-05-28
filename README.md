@@ -29,3 +29,4 @@ This project presents a dynamic sales dashboard created in Microsoft Excel to an
 - Clean, user-friendly dashboard layou
 
 ## [Dashboard Preview](dashboard.png)
+
