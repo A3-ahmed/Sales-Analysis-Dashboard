@@ -28,5 +28,7 @@ This project presents a dynamic sales dashboard created in Microsoft Excel to an
 - Quarterly trend analysis
 - Clean, user-friendly dashboard layout
 
+https://github.com/A3-ahmed/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-05-28%20192651.png
+
 ## Author
 [Aya Ahmed]
