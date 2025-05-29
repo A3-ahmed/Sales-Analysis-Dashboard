@@ -28,5 +28,6 @@ This project presents a dynamic sales dashboard created in Microsoft Excel to an
 - Quarterly trend analysis
 - Clean, user-friendly dashboard layou
 
-## [Dashboard Preview](Dashboard.png)
+ ## Report preview
+ [Dashboard Preview](Dashboard.png)
 
